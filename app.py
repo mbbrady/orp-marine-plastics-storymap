@@ -93,6 +93,16 @@ with st.sidebar:
         st.success("✅ Using placeholder responses for demo")
 
     st.markdown("---")
+    st.markdown("### About This Partnership")
+    st.markdown("""
+    **Ocean Research Project**
+    Marine plastics research through expedition-based data collection aboard the SRV Marie Tharp.
+
+    - Website: [oceanresearchproject.org](https://www.oceanresearchproject.org/)
+    - [Marine Plastics Project](https://www.oceanresearchproject.org/about-6)
+    """)
+
+    st.markdown("---")
     st.markdown("### About RKL")
     st.markdown("""
     **Resonant Knowledge Lab** is a 501(c)(3) nonprofit creating open infrastructure
