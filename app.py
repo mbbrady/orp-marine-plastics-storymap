@@ -8,7 +8,6 @@ for marine research data.
 
 import streamlit as st
 import pandas as pd
-import geopandas as gpd
 from pathlib import Path
 import json
 from datetime import datetime
